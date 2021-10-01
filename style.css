@@ -1,0 +1,65 @@
+ul {
+  list-style-type: none;
+
+  margin: 0;
+
+  padding: 0;
+
+  overflow: hidden;
+
+  background-image: linear-gradient(to right, rgb(0, 255, 255), rgb(0, 0, 0));
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+
+  color: rgb(0, 0, 0);
+
+  text-align: center;
+
+  padding: 14px 16px;
+
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(0, 174, 255);
+}
+
+li a .active {
+  background-color: #111;
+}
+h1 {
+  font-family: "Orbitron", sans-serif;
+  font-size: 5em;
+  position: static;
+  align-items: center;
+
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  background: -webkit-linear-gradient(#5acbfc, #02161f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+body {
+  background: url("High_resolution_wallpaper_background_ID_77700321671.jpg");
+  background-size: cover;
+}
+legend {
+  color: #5acbfc;
+}
+fieldset {
+  border-color: #5acbfc;
+  width: 400px;
+}
+form {
+  color: #5acbfc;
+}
+#picture {
+  width: 500px;
+  float: right;
+}
