@@ -96,4 +96,9 @@ h3 {
 h2 {
   color: white;
   text-align: center;
+  font-weight: bold;
+  font-size: xx-large;
+}
+#more {
+  text-align: center;
 }
