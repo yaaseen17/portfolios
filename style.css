@@ -105,11 +105,10 @@ h2 {
 .fa {
   padding: 100px;
   font-size: 100px;
-  width: 250px;
+  width: 100px;
   text-align: center;
   text-decoration: double;
   border-radius: 50%;
   float: right;
   opacity: 0.7;
-  
 }
