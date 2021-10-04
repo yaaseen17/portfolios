@@ -62,6 +62,8 @@ form {
 #picture {
   width: 500px;
   float: right;
+  border-radius: 50%;
+  align-items: center;
 }
 #first {
   color: rgb(224, 214, 214);
@@ -81,7 +83,7 @@ form {
   margin: auto;
   font-size: 60px;
 }
-img {
+.picture2 {
   border-radius: 50%;
   max-width: 20%;
 }
