@@ -44,6 +44,7 @@ h1 {
   background: -webkit-linear-gradient(#5acbfc, #02161f);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  background-clip: 0;
 }
 body {
   background: url("High_resolution_wallpaper_background_ID_77700321671.jpg");
