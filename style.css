@@ -1,4 +1,4 @@
-ul { 
+ul {
   list-style-type: none;
 
   margin: 0;
@@ -64,8 +64,8 @@ form {
   width: 500px;
   float: right;
   border-radius: 50%;
-  align-items: center;
-  border: solid;
+
+  border: 20px rgb(49, 49, 58) solid;
   border-width: 20px;
 }
 #first {
@@ -89,18 +89,23 @@ form {
 .picture2 {
   border-radius: 50%;
   max-width: 20%;
+  border: 20px solid rgb(49, 49, 58);
 }
 p {
   color: white;
 }
 h3 {
-  color: white;
+  color: rgb(1, 126, 143);
 }
-h2 {
-  color: white;
+h4 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: 100;
+  background: -webkit-linear-gradient(#5acbfc, #02161f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: 0;
   text-align: center;
-  font-weight: bold;
-  font-size: xx-large;
+  font-size: 50px;
 }
 #more {
   text-align: center;
