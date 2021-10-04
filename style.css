@@ -102,3 +102,14 @@ h2 {
 #more {
   text-align: center;
 }
+.fa {
+  padding: 100px;
+  font-size: 100px;
+  width: 250px;
+  text-align: center;
+  text-decoration: double;
+  border-radius: 50%;
+  float: right;
+  opacity: 0.7;
+  
+}
