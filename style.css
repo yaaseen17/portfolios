@@ -67,7 +67,7 @@ form {
   color: rgb(224, 214, 214);
   text-align: center;
   border: 1px solid;
-  background-image: linear-gradient(#5acbfc,black);
+  background-image: linear-gradient(#5acbfc, black);
   width: 450px;
   margin: auto;
 }
@@ -76,9 +76,15 @@ form {
   font-family: "Times New Roman", Times, serif;
   text-align: center;
   border: 1px solid;
-  background-image: linear-gradient(#5acbfc,black);
+  background-image: linear-gradient(#5acbfc, black);
   width: 500px;
   margin: auto;
   font-size: 60px;
+}
+img {
+  border-radius: 50%;
+  max-width: 20%;
+}
+#birdie{ color: white;
 
 }
